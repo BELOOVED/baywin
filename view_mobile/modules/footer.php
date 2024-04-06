@@ -341,11 +341,6 @@
             <div aria-live="polite" style="position: absolute; left: -10000px; top: -10000px; width: 1px; height: 1px;"></div>
          </div>
       </div>
-      <script>
-// JavaScript ile Event Listener Tanımı
-document.querySelector('.icon-btn--SLDZ2').addEventListener('click', function() {
-    window.location.href = '/banking/deposit'; // Yönlendirme yapılacak URL
-});
-</script>
+      
    </body>
 </html>

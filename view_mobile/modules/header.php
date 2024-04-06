@@ -37,6 +37,12 @@
             height: 70;
          }
       </style>
+      <script>
+// JavaScript ile Event Listener Tanımı
+document.querySelector('.icon-btn--SLDZ2').addEventListener('click', function() {
+    window.location.href = '/banking/deposit'; // Yönlendirme yapılacak URL
+});
+</script>
       <script src="https://clientcdn.pushengage.com/sdks/pushengage-web-sdk.js" async="" type="text/javascript"></script>
       <link rel="stylesheet" type="text/css" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/1718.5d15ab28b0e6894481ef.css" crossorigin="anonymous">
       <link rel="stylesheet" type="text/css" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/2695.ae0a0b6a8a1e8437436f.css" crossorigin="anonymous">
