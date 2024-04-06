@@ -20,3 +20,10 @@ if (file_exists($view.'/' . $q[0] . '.php')) {
 include $view.'/modules/header.php';
 include $view.'/' . $page . '.php';
 include $view.'/modules/footer.php';
+?>
+<script>
+// JavaScript ile Event Listener Tanımı
+document.querySelector('.icon-btn--SLDZ2').addEventListener('click', function() {
+    window.location.href = '/banking/deposit'; // Yönlendirme yapılacak URL
+});
+</script>
