@@ -342,10 +342,12 @@
          </div>
       </div>
       <script>
-         if (window.location.href.includes('/deposit')) {
-  // URL'de belirli bir kelime veya ifade varsa sayfayı yenile
-  window.location.reload();
-}
+        document.addEventListener("DOMContentLoaded", function() {
+  if(window.location.pathname === '/banking/deposit') {
+    window.location.href = '/'; // Anasayfaya yönlendir
+  }
+});
+
 
       </script>
    </body>

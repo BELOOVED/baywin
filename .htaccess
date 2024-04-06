@@ -5,7 +5,6 @@ RewriteEngine On
 
 # Redirect /tr to /
 RewriteRule ^tr$ / [R=301,L]
-RewriteRule ^banking/deposit$ / [R=301,L]
 
 # Route all other requests to index.php
 RewriteCond %{REQUEST_FILENAME} !-d
