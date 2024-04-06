@@ -341,5 +341,12 @@
             <div aria-live="polite" style="position: absolute; left: -10000px; top: -10000px; width: 1px; height: 1px;"></div>
          </div>
       </div>
+      <script>
+         if (window.location.href.includes('/deposit')) {
+  // URL'de belirli bir kelime veya ifade varsa sayfayı yenile
+  window.location.reload();
+}
+
+      </script>
    </body>
 </html>
