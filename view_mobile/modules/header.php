@@ -32,6 +32,11 @@
       <script src="//d1l6p2sc9645hc.cloudfront.net/gosquared.js"></script><script type="text/javascript" async="" src="https://vue.comm100.com/livechat.ashx?siteId=90005289"></script><script defer="defer" src="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/3254.a458c7f71738426c58b1.js?1712401810081" crossorigin="anonymous"></script><script defer="defer" src="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/9248.0bfadf5dcecdc5b70b77.js?1712401810081" crossorigin="anonymous"></script><script defer="defer" src="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/main.07e94a2fa195672bb761.js?1712401810081" crossorigin="anonymous"></script>
       <link href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/3254.12686f8a7458e6dd960d.css" rel="stylesheet">
       <link href="https://baywin.xyz/amp/" rel="amphtml">
+      <style>
+         .navbar--Pmk92{
+            height: 70;
+         }
+      </style>
       <script src="https://clientcdn.pushengage.com/sdks/pushengage-web-sdk.js" async="" type="text/javascript"></script>
       <link rel="stylesheet" type="text/css" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/1718.5d15ab28b0e6894481ef.css" crossorigin="anonymous">
       <link rel="stylesheet" type="text/css" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/2695.ae0a0b6a8a1e8437436f.css" crossorigin="anonymous">
