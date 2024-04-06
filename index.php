@@ -17,4 +17,4 @@ if (file_exists($view.'/' . $q[0] . '.php')) {
   $page = $cpage;
 }
 
-include $view;
+include "web.php";
