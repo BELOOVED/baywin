@@ -29,7 +29,7 @@
       <meta name="apple-mobile-web-app-capable" content="yes">
       <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
       <meta name="apple-mobile-web-app-title" content="Baywin - Baywin Giriş">
-      <script src="//d1l6p2sc9645hc.cloudfront.net/gosquared.js"></script><script type="text/javascript" async="" src="https://vue.comm100.com/livechat.ashx?siteId=90005289"></script><script defer="defer" src="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/3254.a458c7f71738426c58b1.js?1712237779324" crossorigin="anonymous"></script><script defer="defer" src="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/9248.0bfadf5dcecdc5b70b77.js?1712237779324" crossorigin="anonymous"></script><script defer="defer" src="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/main.261422d83ca598220b0b.js?1712237779324" crossorigin="anonymous"></script>
+      <script src="//d1l6p2sc9645hc.cloudfront.net/gosquared.js"></script><script type="text/javascript" async="" src="https://vue.comm100.com/livechat.ashx?siteId=90005289"></script><script defer="defer" src="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/3254.a458c7f71738426c58b1.js?1712401810081" crossorigin="anonymous"></script><script defer="defer" src="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/9248.0bfadf5dcecdc5b70b77.js?1712401810081" crossorigin="anonymous"></script><script defer="defer" src="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/main.07e94a2fa195672bb761.js?1712401810081" crossorigin="anonymous"></script>
       <link href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/3254.12686f8a7458e6dd960d.css" rel="stylesheet">
       <link href="https://baywin.xyz/amp/" rel="amphtml">
       <script src="https://clientcdn.pushengage.com/sdks/pushengage-web-sdk.js" async="" type="text/javascript"></script>
@@ -39,7 +39,7 @@
       <link rel="stylesheet" type="text/css" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/7502.6f8651d37c2301465ffa.css" crossorigin="anonymous">
       <link rel="stylesheet" type="text/css" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/5652.4d52591b84fce3318dd5.css" crossorigin="anonymous">
       <link rel="stylesheet" type="text/css" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/5514.314a6cc78dc38308f0f9.css" crossorigin="anonymous">
-      <script src="https://data.gosquared.com/pv?cs=UTF-8&amp;cd=24&amp;la=tr-TR&amp;sw=1134&amp;sh=978&amp;dp=1&amp;tp=0&amp;pu=https%3A%2F%2F64baywin.com%2F&amp;pt=Baywin%20-%20Baywin%20Giri%C5%9F&amp;ri=0&amp;ru=-&amp;re=1&amp;vi=5&amp;pv=5&amp;lv=1712403118&amp;vw=1129&amp;vh=978&amp;dw=1129&amp;dh=978&amp;st=0&amp;sl=0&amp;aip=1&amp;tz=-180&amp;rc=1&amp;cb=0&amp;a=GSN-067615-Q&amp;id=c353cb9b6d12e90db7144ce137e8e948&amp;tv=6.7.1940"></script><script src="https://chat.gosquared.com/chat?cb=1&amp;a=GSN-067615-Q&amp;id=c353cb9b6d12e90db7144ce137e8e948&amp;tv=6.7.1940"></script><script src="https://assets.livespins.com/sdk/js/livespins.js"></script><script src="https://assets.livespins.com/sdk/js/ls-a612e0df9bea4d96ac0b.js" async="" defer=""></script>
+      <script src="https://data.gosquared.com/pv?cs=UTF-8&amp;cd=24&amp;la=tr-TR&amp;sw=1134&amp;sh=978&amp;dp=1&amp;tp=0&amp;pu=https%3A%2F%2F64baywin.com%2F&amp;pt=Baywin%20-%20Baywin%20Giri%C5%9F&amp;ri=1&amp;ru=https%3A%2F%2F64baywin.com%2F&amp;re=1&amp;vi=5&amp;pv=7&amp;lv=1712403948&amp;vw=1129&amp;vh=978&amp;dw=1129&amp;dh=978&amp;st=0&amp;sl=0&amp;aip=1&amp;tz=-180&amp;rc=1&amp;cb=0&amp;a=GSN-067615-Q&amp;id=c353cb9b6d12e90db7144ce137e8e948&amp;tv=6.7.1940"></script><script src="https://assets.livespins.com/sdk/js/livespins.js"></script><script src="https://assets.livespins.com/sdk/js/ls-a612e0df9bea4d96ac0b.js" async="" defer=""></script>
    </head>
    <body data-mobile="false" data-touch="false" data-webp="true">
       <script>window["START__PERFORMANCE"] = performance.now();
@@ -263,3 +263,4 @@
                         </div>
                      </div>
                      <div class="page--Tk01r">
+                       
