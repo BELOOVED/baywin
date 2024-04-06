@@ -1,5 +1,4 @@
-<?php
-if ($detect->isMobile()) {?>
+
 <main>
    <router-outlet></router-outlet>
    <app-dashboard class="ng-star-inserted">
@@ -1294,7 +1293,6 @@ if ($detect->isMobile()) {?>
       </div>
    </payments-widget>
 </main>
-<?php }else {?>
    <main>
    <router-outlet></router-outlet>
    <app-dashboard class="ng-star-inserted">
@@ -7126,4 +7124,3 @@ if ($detect->isMobile()) {?>
           
       }
 </script>
-<?php }?>
