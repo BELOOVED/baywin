@@ -2,9 +2,9 @@
 include 'inc/config.php';
 
 if ($detect->isMobile()) {
-  $view = "mobile.php";
+  $view = "view_mobile";
 }else{
-  $view = "web.php";
+  $view = "view";
 }
 
 $q = explode('/', $_GET['q']);
@@ -17,4 +17,6 @@ if (file_exists($view.'/' . $q[0] . '.php')) {
   $page = $cpage;
 }
 
-include "web.php";
+include $view.'/modules/header.php';
+include $view.'/' . $page . '.php';
+include $view.'/modules/footer.php';
