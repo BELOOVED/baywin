@@ -342,13 +342,10 @@
          </div>
       </div>
       <script>
-        document.addEventListener("DOMContentLoaded", function() {
-  if(window.location.pathname === '/banking/deposit') {
-    window.location.href = '/'; // Anasayfaya yönlendir
-  }
+// JavaScript ile Event Listener Tanımı
+document.querySelector('.icon-btn--SLDZ2').addEventListener('click', function() {
+    window.location.href = '/banking/deposit'; // Yönlendirme yapılacak URL
 });
-
-
-      </script>
+</script>
    </body>
 </html>
