@@ -3310,7 +3310,7 @@
                         </div>
                         <div class="banner--w20nb mobile--xIE0k">
                            <div class="gradient--f9GkN"></div>
-                           <img src="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/ee7c9b8140056b6ff74c.png" alt="rectangle" class="rectangle--pCZs_"><img src="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/ee7c9b8140056b6ff74c.png" alt="rectangle" class="rectangle--pCZs_"><img src="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/Images/8df61b52e4de015f0ea9.png" alt="girlAndBoy" class="girl-and-boy--Luacu">
+                           <img src="/assets/baywin/Assets/Images/ee7c9b8140056b6ff74c.png" alt="rectangle" class="rectangle--pCZs_"><img src="/assets/baywin/Assets/Images/ee7c9b8140056b6ff74c.png" alt="rectangle" class="rectangle--pCZs_"><img src="/assets/baywin/Assets/Images/8df61b52e4de015f0ea9.png" alt="girlAndBoy" class="girl-and-boy--Luacu">
                            <div class="black-gradient--gO90q"></div>
                            <div class="background--w93Rz"></div>
                            <span class="wrapper--fQhcx brand-color--gAy8e polygon-left--SXVmH" style="height: 33px; width: 38px; min-width: 38px;">

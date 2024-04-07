@@ -7,38 +7,38 @@
       <meta name="description" content="Baywin, Baywin Giriş ile sizlerde 200 ₺ deneme bonusu ile oyunlara katılmanın keyfini yaşayın. Baywin canlı casino oyunlarında..">
       <meta name="keywords" content="Baywin, Baywin Giriş, Baywin Canlı Casino, Baywin Bahis">
       <meta name="robots" content="index, follow">
-      <link rel="icon" type="image/x-icon" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/favicon.ico">
-      <link rel="icon" type="image/png" sizes="16x16" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/favicon-16x16.png">
-      <link rel="icon" type="image/png" sizes="32x32" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/favicon-32x32.png">
-      <link rel="icon" type="image/png" sizes="48x48" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/favicon-48x48.png">
-      <link rel="manifest" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/manifest.webmanifest">
+      <link rel="icon" type="image/x-icon" href="/assets/baywin/Assets/favicon.ico">
+      <link rel="icon" type="image/png" sizes="16x16" href="/assets/baywin/Assets/favicon-16x16.png">
+      <link rel="icon" type="image/png" sizes="32x32" href="/assets/baywin/Assets/favicon-32x32.png">
+      <link rel="icon" type="image/png" sizes="48x48" href="/assets/baywin/Assets/favicon-48x48.png">
+      <link rel="manifest" href="/assets/baywin/Assets/manifest.webmanifest">
       <meta name="mobile-web-app-capable" content="yes">
       <meta name="theme-color" content="#fff">
       <meta name="application-name" content="Baywin - Baywin Giriş">
-      <link rel="apple-touch-icon" sizes="57x57" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/apple-touch-icon-57x57.png">
-      <link rel="apple-touch-icon" sizes="60x60" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/apple-touch-icon-60x60.png">
-      <link rel="apple-touch-icon" sizes="72x72" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/apple-touch-icon-72x72.png">
-      <link rel="apple-touch-icon" sizes="76x76" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/apple-touch-icon-76x76.png">
-      <link rel="apple-touch-icon" sizes="114x114" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/apple-touch-icon-114x114.png">
-      <link rel="apple-touch-icon" sizes="120x120" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/apple-touch-icon-120x120.png">
-      <link rel="apple-touch-icon" sizes="144x144" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/apple-touch-icon-144x144.png">
-      <link rel="apple-touch-icon" sizes="152x152" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/apple-touch-icon-152x152.png">
-      <link rel="apple-touch-icon" sizes="167x167" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/apple-touch-icon-167x167.png">
-      <link rel="apple-touch-icon" sizes="180x180" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/apple-touch-icon-180x180.png">
-      <link rel="apple-touch-icon" sizes="1024x1024" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/Assets/apple-touch-icon-1024x1024.png">
+      <link rel="apple-touch-icon" sizes="57x57" href="/assets/baywin/Assets/apple-touch-icon-57x57.png">
+      <link rel="apple-touch-icon" sizes="60x60" href="/assets/baywin/Assets/apple-touch-icon-60x60.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="/assets/baywin/Assets/apple-touch-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="76x76" href="/assets/baywin/Assets/apple-touch-icon-76x76.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="/assets/baywin/Assets/apple-touch-icon-114x114.png">
+      <link rel="apple-touch-icon" sizes="120x120" href="/assets/baywin/Assets/apple-touch-icon-120x120.png">
+      <link rel="apple-touch-icon" sizes="144x144" href="/assets/baywin/Assets/apple-touch-icon-144x144.png">
+      <link rel="apple-touch-icon" sizes="152x152" href="/assets/baywin/Assets/apple-touch-icon-152x152.png">
+      <link rel="apple-touch-icon" sizes="167x167" href="/assets/baywin/Assets/apple-touch-icon-167x167.png">
+      <link rel="apple-touch-icon" sizes="180x180" href="/assets/baywin/Assets/apple-touch-icon-180x180.png">
+      <link rel="apple-touch-icon" sizes="1024x1024" href="/assets/baywin/Assets/apple-touch-icon-1024x1024.png">
       <meta name="apple-mobile-web-app-capable" content="yes">
       <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
       <meta name="apple-mobile-web-app-title" content="Baywin - Baywin Giriş">
-      <script src="//d1l6p2sc9645hc.cloudfront.net/gosquared.js"></script><script type="text/javascript" async="" src="https://vue.comm100.com/livechat.ashx?siteId=90005289"></script><script defer="defer" src="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/3254.a458c7f71738426c58b1.js?1712401810081" crossorigin="anonymous"></script><script defer="defer" src="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/9248.0bfadf5dcecdc5b70b77.js?1712401810081" crossorigin="anonymous"></script><script defer="defer" src="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/main.07e94a2fa195672bb761.js?1712401810081" crossorigin="anonymous"></script>
-      <link href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/3254.12686f8a7458e6dd960d.css" rel="stylesheet">
+      <script src="//d1l6p2sc9645hc.cloudfront.net/gosquared.js"></script><script type="text/javascript" async="" src="https://vue.comm100.com/livechat.ashx?siteId=90005289"></script><script defer="defer" src="/assets/baywin/3254.a458c7f71738426c58b1.js?1712401810081" crossorigin="anonymous"></script><script defer="defer" src="/assets/baywin/9248.0bfadf5dcecdc5b70b77.js?1712401810081" crossorigin="anonymous"></script><script defer="defer" src="/assets/baywin/main.07e94a2fa195672bb761.js?1712401810081" crossorigin="anonymous"></script>
+      <link href="/assets/baywin/3254.12686f8a7458e6dd960d.css" rel="stylesheet">
       <link href="https://baywin.xyz/amp/" rel="amphtml">
       <script src="https://clientcdn.pushengage.com/sdks/pushengage-web-sdk.js" async="" type="text/javascript"></script>
-      <link rel="stylesheet" type="text/css" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/1718.5d15ab28b0e6894481ef.css" crossorigin="anonymous">
-      <link rel="stylesheet" type="text/css" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/2695.ae0a0b6a8a1e8437436f.css" crossorigin="anonymous">
-      <link rel="stylesheet" type="text/css" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/6376.9d4b5476cb3516323076.css" crossorigin="anonymous">
-      <link rel="stylesheet" type="text/css" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/7502.6f8651d37c2301465ffa.css" crossorigin="anonymous">
-      <link rel="stylesheet" type="text/css" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/5652.4d52591b84fce3318dd5.css" crossorigin="anonymous">
-      <link rel="stylesheet" type="text/css" href="https://bet-baywin-tr--prd--pl-sb.dtgapi.com/sportsbook__static/5514.314a6cc78dc38308f0f9.css" crossorigin="anonymous">
+      <link rel="stylesheet" type="text/css" href="/assets/baywin/1718.5d15ab28b0e6894481ef.css" crossorigin="anonymous">
+      <link rel="stylesheet" type="text/css" href="/assets/baywin/2695.ae0a0b6a8a1e8437436f.css" crossorigin="anonymous">
+      <link rel="stylesheet" type="text/css" href="/assets/baywin/6376.9d4b5476cb3516323076.css" crossorigin="anonymous">
+      <link rel="stylesheet" type="text/css" href="/assets/baywin/7502.6f8651d37c2301465ffa.css" crossorigin="anonymous">
+      <link rel="stylesheet" type="text/css" href="/assets/baywin/5652.4d52591b84fce3318dd5.css" crossorigin="anonymous">
+      <link rel="stylesheet" type="text/css" href="/assets/baywin/5514.314a6cc78dc38308f0f9.css" crossorigin="anonymous">
       <script src="https://data.gosquared.com/pv?cs=UTF-8&amp;cd=24&amp;la=tr-TR&amp;sw=1134&amp;sh=978&amp;dp=1&amp;tp=0&amp;pu=https%3A%2F%2F64baywin.com%2F&amp;pt=Baywin%20-%20Baywin%20Giri%C5%9F&amp;ri=1&amp;ru=https%3A%2F%2F64baywin.com%2F&amp;re=1&amp;vi=5&amp;pv=7&amp;lv=1712403948&amp;vw=1129&amp;vh=978&amp;dw=1129&amp;dh=978&amp;st=0&amp;sl=0&amp;aip=1&amp;tz=-180&amp;rc=1&amp;cb=0&amp;a=GSN-067615-Q&amp;id=c353cb9b6d12e90db7144ce137e8e948&amp;tv=6.7.1940"></script><script src="https://assets.livespins.com/sdk/js/livespins.js"></script><script src="https://assets.livespins.com/sdk/js/ls-a612e0df9bea4d96ac0b.js" async="" defer=""></script>
    </head>
    <body data-mobile="false" data-touch="false" data-webp="true">
