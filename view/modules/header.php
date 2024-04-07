@@ -39,6 +39,24 @@
       <link rel="stylesheet" type="text/css" href="/assets/baywin/7502.6f8651d37c2301465ffa.css" crossorigin="anonymous">
       <link rel="stylesheet" type="text/css" href="/assets/baywin/5652.4d52591b84fce3318dd5.css" crossorigin="anonymous">
       <link rel="stylesheet" type="text/css" href="/assets/baywin/5514.314a6cc78dc38308f0f9.css" crossorigin="anonymous">
+      <script defer="defer" src="/assets/baywin/601.82738a68e78004294b4b.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/1718.f2ed7b3b17af74c9b90c.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/2079.7a85ae9e5dc8d0e40060.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/3177.d7b7245d3d9411398858.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/3254.a458c7f71738426c58b1.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/3914.b2cc5262074a4c8f3823.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/5514.750090c8e3a2c411cd36.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/5652.4f4051a2b83f7a35b2ca.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/5742.aa8a44c9461aa757b2fe.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/6376.3009987b6e9b3974a86d.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/6538.007c5f9fdb463406b08e.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/7502.0fc90faf3dfa8189c2ef.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/7619.f03deef0d2064a8eb278.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/7701.633f3ab4ae7e6b849718.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/8736.1b25160756afb845987c.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/9071.2a3a5523dc10de14237e.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/9126.fe25ca5898dcfcb09965.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/9248.0bfadf5dcecdc5b70b77.js" crossorigin="anonymous"></script>
       <script src="https://data.gosquared.com/pv?cs=UTF-8&amp;cd=24&amp;la=tr-TR&amp;sw=1134&amp;sh=978&amp;dp=1&amp;tp=0&amp;pu=https%3A%2F%2F64baywin.com%2F&amp;pt=Baywin%20-%20Baywin%20Giri%C5%9F&amp;ri=1&amp;ru=https%3A%2F%2F64baywin.com%2F&amp;re=1&amp;vi=5&amp;pv=7&amp;lv=1712403948&amp;vw=1129&amp;vh=978&amp;dw=1129&amp;dh=978&amp;st=0&amp;sl=0&amp;aip=1&amp;tz=-180&amp;rc=1&amp;cb=0&amp;a=GSN-067615-Q&amp;id=c353cb9b6d12e90db7144ce137e8e948&amp;tv=6.7.1940"></script><script src="https://assets.livespins.com/sdk/js/livespins.js"></script><script src="https://assets.livespins.com/sdk/js/ls-a612e0df9bea4d96ac0b.js" async="" defer=""></script>
    </head>
    <body data-mobile="false" data-touch="false" data-webp="true">

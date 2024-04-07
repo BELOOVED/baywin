@@ -29,7 +29,31 @@
       <meta name="apple-mobile-web-app-capable" content="yes">
       <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
       <meta name="apple-mobile-web-app-title" content="Baywin - Baywin Giriş">
-      <script src="//d1l6p2sc9645hc.cloudfront.net/gosquared.js"></script><script type="text/javascript" async="" src="https://vue.comm100.com/livechat.ashx?siteId=90005289"></script><script defer="defer" src="/assets/baywin/3254.a458c7f71738426c58b1.js?1712401810081" crossorigin="anonymous"></script><script defer="defer" src="/assets/baywin/9248.0bfadf5dcecdc5b70b77.js?1712401810081" crossorigin="anonymous"></script><script defer="defer" src="/assets/baywin/main.07e94a2fa195672bb761.js?1712401810081" crossorigin="anonymous"></script>
+      <script src="//d1l6p2sc9645hc.cloudfront.net/gosquared.js"></script><script type="text/javascript" async="" src="https://vue.comm100.com/livechat.ashx?siteId=90005289"></script><script defer="defer" src="/assets/baywin/3254.a458c7f71738426c58b1.js?1712401810081" crossorigin="anonymous"></script><script defer="defer" src="/assets/baywin/9248.0bfadf5dcecdc5b70b77.js?1712401810081" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/main.07e94a2fa195672bb761.js?1712401810081" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/601.82738a68e78004294b4b.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/1718.f2ed7b3b17af74c9b90c.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/2079.7a85ae9e5dc8d0e40060.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/3177.d7b7245d3d9411398858.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/3254.a458c7f71738426c58b1.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/3914.b2cc5262074a4c8f3823.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/5514.750090c8e3a2c411cd36.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/5652.4f4051a2b83f7a35b2ca.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/5742.aa8a44c9461aa757b2fe.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/6376.3009987b6e9b3974a86d.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/6538.007c5f9fdb463406b08e.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/7502.0fc90faf3dfa8189c2ef.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/7619.f03deef0d2064a8eb278.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/7701.633f3ab4ae7e6b849718.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/8736.1b25160756afb845987c.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/9071.2a3a5523dc10de14237e.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/9126.fe25ca5898dcfcb09965.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/9248.0bfadf5dcecdc5b70b77.js" crossorigin="anonymous"></script>
+
+      
+
+
+
       <link href="/assets/baywin/3254.12686f8a7458e6dd960d.css" rel="stylesheet">
       <link href="https://baywin.xyz/amp/" rel="amphtml">
       <style>
