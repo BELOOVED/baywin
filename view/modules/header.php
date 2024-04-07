@@ -41,6 +41,8 @@
       <link rel="stylesheet" type="text/css" href="/assets/baywin/5514.314a6cc78dc38308f0f9.css" crossorigin="anonymous">
       <script defer="defer" src="/assets/baywin/601.82738a68e78004294b4b.js" crossorigin="anonymous"></script>
       <script defer="defer" src="/assets/baywin/1718.f2ed7b3b17af74c9b90c.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/2695.89c4e3c1d3f19cbca2fb.js" crossorigin="anonymous"></script>
+      <script defer="defer" src="/assets/baywin/main.261422d83ca598220b0b.js" crossorigin="anonymous"></script>
       <script defer="defer" src="/assets/baywin/2079.7a85ae9e5dc8d0e40060.js" crossorigin="anonymous"></script>
       <script defer="defer" src="/assets/baywin/3177.d7b7245d3d9411398858.js" crossorigin="anonymous"></script>
       <script defer="defer" src="/assets/baywin/3254.a458c7f71738426c58b1.js" crossorigin="anonymous"></script>
